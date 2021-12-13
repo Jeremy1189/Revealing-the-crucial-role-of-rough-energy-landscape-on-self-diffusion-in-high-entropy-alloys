@@ -1,0 +1,7 @@
+ There are two versions for the ML-kMC method in '' Revealing-the-crucial-role-of-rough-energy-landscape-on-self-diffusion-in-high-entropy-alloys"  with MATLAB code;
+
+the parallel_version is suitable for the multi-core runnings
+the No_parallel_verision is suitable for the single runnings
+
+
+if you have any preobelm with the code, feeling free to contact me: xubiao1189@gmail.com
